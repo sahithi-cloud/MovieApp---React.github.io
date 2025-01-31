@@ -52,6 +52,6 @@ const API_URL = 'http://www.omdbapi.com?apikey=YOUR_API_KEY';
 Author
 👤 Sahithi Balerao
 
-GitHub: @sahithi-cloud
-LinkedIn: [Sahithi Balerao](https://www.linkedin.com/in/sahithi-balerao29/)
+- GitHub: @sahithi-cloud
+- LinkedIn: [Sahithi Balerao](https://www.linkedin.com/in/sahithi-balerao29/)
 
